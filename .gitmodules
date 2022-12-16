@@ -1,0 +1,4 @@
+[submodule "tools"]
+	path = tools
+	url = https://gc-cpa@dev.azure.com/gc-cpa/iac-gcp/_git/gcp-tools
+    branch = main

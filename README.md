@@ -1,2 +1,2 @@
 # Deployment Repo
-Refer to the [documentation](https://github.com/GoogleCloudPlatform/pubsec-declarative-toolkit.git/docs/landing-zone-v2/building.md) for more info.
+Refer to the [documentation](https://github.com/ssc-spc-ccoe-cei/gcp-documentation) for more info.
